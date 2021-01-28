@@ -1,1 +1,1 @@
-# messengr
+# simple-messenger

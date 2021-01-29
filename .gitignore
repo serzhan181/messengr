@@ -1,4 +1,6 @@
-/node_modules/
-/public/build/
+front/node_modules/
+front/public/build/
 
-.DS_Store
+front/.DS_Store
+
+

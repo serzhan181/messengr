@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/serzhan181/messengr/issues"
   },
-  "homepage": "https://github.com/serzhan181/messengr#readme"
+  "homepage": "https://github.com/serzhan181/messengr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

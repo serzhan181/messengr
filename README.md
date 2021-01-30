@@ -16,3 +16,4 @@ Go to localhost:3000
 ## Backend
 * Node.js
 * Express
+* Socket.io
